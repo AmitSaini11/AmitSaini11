@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amit Saini</h1>
 
-<!-- - 🔭 I’m currently working on **on my Data Engineering skills**
+<h4> - 🔭 I’m currently working on **on my Data Engineering skills**
 
 - 🌱 I’m currently learning **Azure (DP203)**
 
@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **resources for being a self taught IT professional**
 
-- ⚡ Fun fact **I love learning new technologies.** -->
+- ⚡ Fun fact **I love learning new technologies.** </h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
