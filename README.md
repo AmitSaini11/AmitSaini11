@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **resources for being a self taught IT professional**
 
-- ⚡ Fun fact **I love flirting with girls.** -->
+- ⚡ Fun fact **I love learning new technologies.** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
