@@ -2,7 +2,7 @@
 
 <h4> - 🔭 I’m currently working on **on my Data Engineering skills**
 
-- 🌱 I’m currently learning **Azure (DP203)**
+- 🌱 I’m certified  **Azure (DP203)**
 
 - 👯 I’m looking to collaborate on **on project releted to data engineering**
 
